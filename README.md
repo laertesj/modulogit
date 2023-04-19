@@ -1,5 +1,6 @@
-Meu primeiro sistema no git
+Meu segundo sistema no git
 
 Alterando novamente as informações do meu arquivo readme.
 
-ALTERAÇÃO FEITA NO MASTER.
+Uma nova linha adicionada.
+mais uma linha add.
